@@ -1,0 +1,28 @@
+{
+  "name": "forin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriydmx/forIn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitriydmx/forIn/issues"
+  },
+  "homepage": "https://github.com/dmitriydmx/forIn#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.35.1"
+  }
+}
